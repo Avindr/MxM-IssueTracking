@@ -15,8 +15,8 @@ For potential bug reports please be clear and very specific about the issue. Be 
 - What is happenening?
 - When does it happen?
 - Can it be easily reproduced? If so how?
-- Screenshots? (if useful / necessary)
-- Video? (if useful / necessary)
-- Link to Unity package that can reproduce the issue (if useful / necessary)
+- Screenshots? (if useful)
+- Video? (if useful)
+- Link to Unity package that can reproduce the issue (if useful)
 
 <b>DO NOT JUST POST A SCREENSHOT OF CONSOLE ERRORS! YOUR ISSUE WILL BE IGNORED IF IT DOES NOT INCLUDE PROPER INFORMATION!
