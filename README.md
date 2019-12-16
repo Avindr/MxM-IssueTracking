@@ -13,6 +13,7 @@ Before reporting bugs, please do your best to ensure that the problem is not occ
 
 For potential bug reports please be clear and very specific about the issue. Be sure to include:
 - Unity Version
+- MxM Version
 - What is happenening?
 - When does it happen?
 - Can it be easily reproduced? If so how?
