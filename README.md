@@ -2,8 +2,6 @@
 
 The purpose of this repository is to support 'Motion Matching for Unity' via the following:
 - Bug and issue tracking
-- Wiki (WIP)
-- Integrations / Code Snippets
 
 For the core asset, please see the unity asset store <a href='https://assetstore.unity.com/packages/tools/animation/motion-matching-for-unity-145624'>page</a>.
 
